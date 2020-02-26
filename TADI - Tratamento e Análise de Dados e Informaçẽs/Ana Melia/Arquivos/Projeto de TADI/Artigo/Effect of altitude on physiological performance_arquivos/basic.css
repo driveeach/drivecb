@@ -1,0 +1,126 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: 62.5% arial,sans-serif; COLOR: #333; PADDING-TOP: 0px
+}
+A {
+	
+}
+IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+A IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+H1 {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 2px; FONT: bold 2.1em arial, sans-serif; COLOR: #3a6d8e
+}
+H2 {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 2px; FONT: bold 1.8em arial, sans-serif; COLOR: #009af6
+}
+H3 {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 2px; FONT: bold 1.6em arial, sans-serif; COLOR: #666
+}
+H4 {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 2px; FONT: bold 1.2em arial, sans-serif; COLOR: #333
+}
+H5 {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 2px; FONT: bold 1.2em arial, sans-serif; COLOR: #666
+}
+P {
+	MARGIN-TOP: 2px; MARGIN-BOTTOM: 10px; FONT: 1.2em/1.4em arial, sans-serif
+}
+IMG.audio {
+	PADDING-RIGHT: 10px
+}
+UL {
+	LIST-STYLE-TYPE: disc
+}
+UL LI {
+	FONT: 1.2em/1.6em Arial, Sans Serif; LIST-STYLE-TYPE: disc
+}
+LI UL LI {
+	FONT: 1em/1.6em Arial, Sans Serif; LIST-STYLE-TYPE: circle
+}
+LI UL LI LI {
+	FONT: 1em/1.6em Arial, Sans Serif; LIST-STYLE-TYPE: square
+}
+OL {
+	
+}
+OL LI {
+	FONT: 1.2em Arial, Sans Serif
+}
+LI OL LI {
+	FONT: 1em Arial, Sans Serif
+}
+UL UL {
+	
+}
+OL OL {
+	
+}
+UL OL {
+	
+}
+OL UL {
+	
+}
+DL {
+	
+}
+DL DT {
+	
+}
+DL DD {
+	MARGIN: 0px 0px 1em
+}
+BLOCKQUOTE {
+	MARGIN: 1em 0px 1em 20px
+}
+IMG.audio {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 10px; BORDER-TOP: medium none; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0pt; BORDER-LEFT: medium none; LINE-HEIGHT: 3em! important; PADDING-TOP: 0px; BORDER-BOTTOM: medium none
+}
+P.audio {
+	LINE-HEIGHT: 3em! important
+}
+LI.audio {
+	PADDING-RIGHT: 0px; LIST-STYLE: none none outside; PADDING-LEFT: 37px; BACKGROUND: url(http://www.bmj.com/home/icons/listen-icon2.jpg) no-repeat 0pt 0em; PADDING-BOTTOM: 0px; MARGIN: 0pt; LINE-HEIGHT: 3em! important; PADDING-TOP: 0px
+}
+LI.read {
+	PADDING-RIGHT: 0px; LIST-STYLE: none none outside; PADDING-LEFT: 37px; BACKGROUND: url(http://www.bmj.com/home/icons/read-icon.jpg) no-repeat 0pt 0em; PADDING-BOTTOM: 0px; MARGIN: 0pt; LINE-HEIGHT: 3em! important; PADDING-TOP: 0px
+}
+H2.audio {
+	PADDING-RIGHT: 0px; LIST-STYLE: none none outside; PADDING-LEFT: 37px; BACKGROUND: url(http://www.bmj.com/home/icons/audio-icon.jpg) no-repeat 0pt 0em; PADDING-BOTTOM: 0px; MARGIN: 0pt; PADDING-TOP: 0px
+}
+PRE {
+	
+}
+CODE {
+	
+}
+TT {
+	
+}
+ HTML CODE {
+	
+}
+ HTML PRE {
+	
+}
+ HTML TT {
+	
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+FIELDSET {
+	
+}
+LEGEND {
+	
+}
+INPUT {
+	VERTICAL-ALIGN: middle
+}
+SELECT {
+	VERTICAL-ALIGN: middle
+}

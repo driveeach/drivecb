@@ -1,0 +1,126 @@
+ {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000! important
+}
+BODY {
+	FONT-SIZE: 62.5%
+}
+P {
+	FONT-SIZE: 1.2em
+}
+#AdLeaderboard {
+	DISPLAY: none
+}
+#ResourceNav {
+	DISPLAY: none
+}
+#SearchWrapper {
+	DISPLAY: none
+}
+#Authorization {
+	DISPLAY: none
+}
+#MainNavWrap {
+	DISPLAY: none
+}
+#PageTools {
+	DISPLAY: none
+}
+#SideColumn {
+	DISPLAY: none
+}
+#PromoColumn {
+	DISPLAY: none
+}
+HTML #ArticleNav {
+	DISPLAY: none
+}
+HTML #ContentNav {
+	DISPLAY: none
+}
+#PageWrapper {
+	WIDTH: auto
+}
+#MainColumn {
+	WIDTH: auto
+}
+.HomePage #MainColumn .Item {
+	WIDTH: auto
+}
+#Article {
+	WIDTH: auto
+}
+#Content {
+	WIDTH: auto
+}
+#HeaderWrapper {
+	FLOAT: none
+}
+#bmj-logo {
+	FLOAT: none
+}
+.HomePage #MainColumn .Item {
+	FLOAT: none
+}
+#BodyWrapper {
+	FLOAT: none
+}
+#MainColumn {
+	FLOAT: none
+}
+#Article {
+	FLOAT: none
+}
+#Content {
+	FLOAT: none
+}
+#FooterWrapper {
+	CLEAR: both
+}
+#MainColumn {
+	CLEAR: both
+}
+#BodyWrapper {
+	CLEAR: both
+}
+#MainColumn .Item {
+	CLEAR: both
+}
+#HeaderWrapper {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+#BodyWrapper {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+#bmj-logo {
+	MARGIN-TOP: 0px
+}
+#CategoryHeader {
+	WIDTH: 100%
+}
+#FooterWrapper {
+	CLEAR: both; BORDER-TOP: #ccc 1px solid; MARGIN-TOP: 2em; WIDTH: 100%
+}
+.HomePage #MainColumn .Exception UL {
+	PADDING-LEFT: 15px
+}
+.HomePage #MainColumn .Exception UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: square
+}
+DIV {
+	WIDTH: auto! important
+}
+P {
+	WIDTH: auto! important
+}
+UL {
+	WIDTH: auto! important
+}
+DL {
+	WIDTH: auto! important
+}
+OL {
+	WIDTH: auto! important
+}
+.nosidebar#MainColumn {
+	WIDTH: auto
+}

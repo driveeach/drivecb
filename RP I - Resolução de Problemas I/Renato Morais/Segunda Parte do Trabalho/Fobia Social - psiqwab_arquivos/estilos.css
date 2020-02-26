@@ -1,0 +1,146 @@
+.bordastab {
+	border: 1px dotted;
+}
+.textos {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #222222;
+}
+
+.hint {
+	font-family: verdana;
+	font-size: 9px;
+	color: #222222;
+}
+
+.form {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	background-color: #FFFFFF;
+	border: 1px solid #666666;
+	width: 25px;
+	text-align: right;
+}
+
+a {text-decoration: none; color: 006699;}
+a:hover{text-decoration: underline;}
+
+.form2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	border: 1px solid #666666;
+	width: auto;
+}
+.formColors {
+	border: 1px solid #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.formValor {
+	border: 1px solid #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-align: right;
+}
+.categ {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+.linhastabelas {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+
+.tdTopoOpcao2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #adaaad
+}
+.tabelaOpcao2 {
+	WIDTH: 500px
+}
+.tdCorpoOpcao2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #efefef
+}
+.tdTopoOpcao1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #adaaad
+}
+.tabelaOpcao1 {
+	WIDTH: 500px
+}
+.tdCorpoOpcao1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #efefef
+}
+.box {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 9px; BORDER-LEFT: #000000 1px solid; COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
+}
+.txtbox {
+	BORDER-RIGHT: #214184 1px solid; BORDER-TOP: #214184 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #214184 1px solid; COLOR: #000000; BORDER-BOTTOM: #214184 1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
+}
+.txtfield {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Verdana
+}
+.botao {
+	FONT-SIZE: 10px;
+	BACKGROUND: #f1f1f1;
+	COLOR: #000000;
+	FONT-FAMILY: verdana;
+	TEXT-DECORATION: none;
+	border: 1px solid #000000;
+
+}
+.txtpadrao1 {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.txtMenu {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.txtpadraoBold {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.fontepadrao2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.aSubGrupo {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.aSubGrupo:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.aGrupo {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.aGrupo:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.btnPadrao {
+	BORDER-RIGHT: #ff9a00 1px solid; BORDER-TOP: #ff9a00 1px solid; FONT-SIZE: 10px; BACKGROUND: #adaaad; BORDER-LEFT: #ff9a00 1px solid; COLOR: #000000; BORDER-BOTTOM: #ff9a00 1px solid; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.txtpadrao {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #000000 1px solid; COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
+}
+.txtpadraoCinza {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+.txtpadraoCinzabold {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.corpo{
+	SCROLLBAR-FACE-COLOR: #f1f1f1;
+	SCROLLBAR-SHADOW-COLOR: #000000;
+	SCROLLBAR-3DLIGHT-COLOR: #000000;
+	SCROLLBAR-ARROW-COLOR: #000000;
+	SCROLLBAR-TRACK-COLOR: #f1f1f1;
+	SCROLLBAR-DARKSHADOW-COLOR: #f1f1f1;
+	SCROLLBAR-BASE-COLOR: #f1f1f1;
+	color: #000000;
+
+}
+.titulo {
+	FONT-SIZE: 20px; COLOR: #555555; FONT-FAMILY: verdana; TEXT-DECORATION: none; FONT-WEIGHT: normal;
+}
+.titulo_n_2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #333333; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}

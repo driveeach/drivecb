@@ -1,0 +1,183 @@
+.cell {
+	BORDER-BOTTOM: #ffdc86 1px solid
+}
+.titulo1 {
+	FONT: bold 12px Verdana; COLOR: #000000; TEXT-DECORATION: none
+}
+.right-box {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND: #38546a; PADDING-BOTTOM: 3px; FONT: 9px Verdana; BORDER-LEFT: #ffffff 1px solid; COLOR: #ffffff; PADDING-TOP: 3px
+}
+.titulo1:hover {
+	TEXT-DECORATION: underline
+}
+.titulo2 {
+	FONT: bold 11px Verdana; COLOR: #2f4f4f; TEXT-DECORATION: none
+}
+.titulo2:hover {
+	TEXT-DECORATION: underline
+}
+.titulo3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #41657f; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.titulo3:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #41657f; FONT-FAMILY: Verdana; TEXT-DECORATION: underline
+}
+.titulo4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffcc; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.titulo4:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffcc; FONT-FAMILY: Verdana; TEXT-DECORATION: underline
+}
+.titulo5 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #006666; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.titulo5:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #006666; FONT-FAMILY: Verdana; TEXT-DECORATION: underline
+}
+.titulo6 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #41657f; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.titulo6:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #41657f; FONT-FAMILY: Verdana; TEXT-DECORATION: underline
+}
+.titulo7 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #b56b1a; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.titulo7:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #b56b1a; FONT-FAMILY: Verdana; TEXT-DECORATION: underline
+}
+.titulosecc {
+	FONT: bold 11px Verdana; COLOR: #000000; TEXT-DECORATION: none
+}
+.titulosecc2 {
+	FONT: bold 11px Verdana; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.texto1 {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana
+}
+.fecha {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Verdana
+}
+.fecha2 {
+	FONT-SIZE: 9px; COLOR: #508ab0; FONT-FAMILY: Verdana
+}
+.creditos {
+	FONT-SIZE: 9px; COLOR: #666666; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.creditos:hover {
+	TEXT-DECORATION: underline
+}
+.texto2 {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana
+}
+.texto3 {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana
+}
+.enlace:hover {
+	TEXT-DECORATION: underline
+}
+.enlace {
+	FONT-SIZE: 10px; COLOR: #000f83; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.enlaceB:hover {
+	TEXT-DECORATION: underline
+}
+.enlaceB {
+	FONT-SIZE: 10px; COLOR: #508ab0; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.resultado:hover {
+	FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.resultado {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ff881c; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.menu-list {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 4px; COLOR: #f5f5f5; PADDING-TOP: 4px; BORDER-BOTTOM: #aecac9 1px solid; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #037389; TEXT-DECORATION: none
+}
+.menu-list2 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px; BORDER-BOTTOM: #cddae3 1px solid; BACKGROUND-COLOR: #508ab0; TEXT-DECORATION: none
+}
+.menu-selected {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 4px; COLOR: #2f4f4f; PADDING-TOP: 4px; BORDER-BOTTOM: #cddae3 1px solid; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #1cc9ff; TEXT-DECORATION: none
+}
+.menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #f5f5f5; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.menu:hover {
+	TEXT-DECORATION: underline
+}
+.submenu {
+	FONT-SIZE: 10px; COLOR: #cddae3; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.submenu:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.fields {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; MARGIN: 2px; FONT: 10px Verdana; BORDER-LEFT: #333333 1px solid; COLOR: #000000; BORDER-BOTTOM: #333333 1px solid; BACKGROUND-COLOR: #dedede
+}
+.boxI {
+	BORDER-RIGHT: #cb9615 3px solid; PADDING-RIGHT: 3px; BORDER-TOP: #cb9615 3px solid; PADDING-LEFT: 3px; FONT-SIZE: 10px; BACKGROUND: #feee73; PADDING-BOTTOM: 3px; BORDER-LEFT: #cb9615 3px solid; COLOR: #996633; PADDING-TOP: 3px; BORDER-BOTTOM: #cb9615 3px solid; FONT-FAMILY: Verdana
+}
+.boxII {
+	BORDER-RIGHT: #ff3300 3px solid; PADDING-RIGHT: 3px; BORDER-TOP: #ff3300 3px solid; PADDING-LEFT: 3px; FONT-SIZE: 10px; BACKGROUND: #ff881c; PADDING-BOTTOM: 3px; BORDER-LEFT: #ff3300 3px solid; COLOR: #fafad2; PADDING-TOP: 3px; BORDER-BOTTOM: #ff3300 3px solid; FONT-FAMILY: Verdana
+}
+.boxXII {
+	BORDER-RIGHT: #999900 3px solid; PADDING-RIGHT: 3px; BORDER-TOP: #999900 3px solid; PADDING-LEFT: 3px; FONT-SIZE: 10px; BACKGROUND: #e4e2bd; PADDING-BOTTOM: 3px; BORDER-LEFT: #999900 3px solid; COLOR: #000000; PADDING-TOP: 3px; BORDER-BOTTOM: #999900 3px solid; FONT-FAMILY: Verdana
+}
+.titulo12 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.box-ranking {
+	BORDER-RIGHT: #b56b1a 3px solid; BORDER-TOP: #b56b1a 3px solid; BORDER-LEFT: #b56b1a 3px solid; BORDER-BOTTOM: #b56b1a 3px solid
+}
+.box-results {
+	BORDER-RIGHT: #f08816 3px solid; BORDER-TOP: #f08816 3px solid; BORDER-LEFT: #f08816 3px solid; BORDER-BOTTOM: #f08816 3px solid
+}
+.box-federations {
+	BORDER-RIGHT: #77a1b7 3px solid; BORDER-TOP: #77a1b7 3px solid; BORDER-LEFT: #77a1b7 3px solid; BORDER-BOTTOM: #77a1b7 3px solid
+}
+.box-sudamericana {
+	BORDER-RIGHT: #0067ac 3px solid; BORDER-TOP: #0067ac 3px solid; BACKGROUND: #0067ac; BORDER-LEFT: #0067ac 3px solid; BORDER-BOTTOM: #0067ac 3px solid
+}
+.box-download {
+	BORDER-RIGHT: #7f87c1 3px solid; BORDER-TOP: #7f87c1 3px solid; FONT-SIZE: 9px; BACKGROUND: #e5e7f3; BORDER-LEFT: #7f87c1 3px solid; COLOR: #000000; BORDER-BOTTOM: #7f87c1 3px solid; FONT-FAMILY: Verdana
+}
+.box-conmebol {
+	BORDER-RIGHT: #9b9400 3px solid; BORDER-TOP: #9b9400 3px solid; BACKGROUND: #dadab5; BORDER-LEFT: #9b9400 3px solid; BORDER-BOTTOM: #9b9400 3px solid
+}
+.boxIV {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 10px; BACKGROUND: #eeeeee; PADDING-BOTTOM: 3px; COLOR: #576773; PADDING-TOP: 3px; FONT-FAMILY: Verdana
+}
+.boxV {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 10px; BACKGROUND: #f5f5f5; PADDING-BOTTOM: 3px; COLOR: #000000; PADDING-TOP: 3px; FONT-FAMILY: Verdana
+}
+.boxIX {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 10px; BACKGROUND: #ffffcc; PADDING-BOTTOM: 3px; COLOR: #000000; PADDING-TOP: 3px; FONT-FAMILY: Verdana
+}
+.newsmodule {
+	BORDER-RIGHT: #38546a 1px solid; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; BORDER-LEFT: #38546a 1px solid; COLOR: #333333; PADDING-TOP: 5px; FONT-FAMILY: Verdana
+}
+.section-title {
+	BORDER-RIGHT: #38546a 1px solid; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 13px; BACKGROUND: #f5f5f5; PADDING-BOTTOM: 5px; BORDER-LEFT: #38546a 1px solid; COLOR: #0d4983; BORDER-TOP-STYLE: none; PADDING-TOP: 5px; FONT-FAMILY: Verdana; BORDER-BOTTOM-STYLE: none
+}
+.3L-menu {
+	BORDER-RIGHT: #38546a 1px solid; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: #dedede; PADDING-BOTTOM: 5px; BORDER-LEFT: #38546a 1px solid; BORDER-TOP-STYLE: none; PADDING-TOP: 5px; BORDER-BOTTOM-STYLE: none
+}
+.headlines {
+	BORDER-RIGHT: #38546a 1px solid; BORDER-TOP: medium none; BORDER-LEFT: #38546a 1px solid; BORDER-BOTTOM: #38546a 1px solid
+}
+.boxVII {
+	BORDER-RIGHT: #999999 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #999999 1px solid; PADDING-LEFT: 3px; FONT-SIZE: 11px; BACKGROUND: #f5f5f5; PADDING-BOTTOM: 3px; BORDER-LEFT: #999999 1px solid; COLOR: #576773; PADDING-TOP: 3px; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: Verdana
+}
+.main-fecha {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; PADDING-TOP: 6px; BORDER-BOTTOM: #38546a 1px solid; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #f5f5f5; F5F5F5: 
+}
+.boxVI {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 10px; BACKGROUND: #c8e3ec; PADDING-BOTTOM: 3px; COLOR: #45525d; PADDING-TOP: 3px; FONT-FAMILY: Verdana
+}
+.texto4 {
+	FONT-SIZE: 9px; COLOR: #333333; FONT-FAMILY: Verdana
+}
+.boxVIII {
+	BORDER-RIGHT: #f08816 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #f08816 1px solid; PADDING-LEFT: 3px; FONT-SIZE: 11px; BACKGROUND: #ffffff; PADDING-BOTTOM: 3px; BORDER-LEFT: #f08816 1px solid; COLOR: #576773; PADDING-TOP: 3px; BORDER-BOTTOM: #f08816 1px solid; FONT-FAMILY: Verdana
+}
